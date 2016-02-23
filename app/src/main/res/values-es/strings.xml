@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiplicationFlashCards</string>
+    <string name="what_is">Que es:</string>
+    <string name="enter">Entrar</string>
+    <string name="successMessage1">¡Muy bien!</string>
+    <string name="successMessage2">¡Excelente!</string>
+    <string name="successMessage3">¡Buen trabajo!</string>
+    <string name="successMessage4">Mantener el buen trabajo!</string>
+    <string name="failureMessage1">No. Por favor, inténtelo de nuevo.</string>
+    <string name="failureMessage2">Incorrecto. Intentar una vez más.</string>
+    <string name="failureMessage3">No se rinda!</string>
+    <string name="failureMessage4">No. Sigue intentándolo.</string>
+</resources>
